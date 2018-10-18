@@ -1,0 +1,13 @@
+Process
+1. Have a list of people - 6
+- 3 male 
+- 3 female 
+
+2. select two people 
+3. match them 
+4. if a person is matched up with them selves they are free on Saturday night
+5. Do 10 iteration 
+6. keep track of the date numbers
+7. Say some things on what happened on the date random, the people involved and what each person did
+Bonus
+8. When people break up they cannot be paired with another date  
